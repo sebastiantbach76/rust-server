@@ -10,33 +10,3 @@
 <p>This program launches a simple HTTP server written in the Rust programming language. To compile, execute the following command in a command line interface or terminal application in the <code>server</code> directory:</p>
 
 <code>cargo run</code>
-
-<style>
-body {
-    background: white;
-    color: black;
-}
-
-h1 {
-    color: #b7410e;
-}
-
-p {
-    font-family: Arial, Verdana, sans-serif;
-    font-size: 1rem;
-    color: black;
-}
-
-strong {
-    font-weight: 600;
-    font-size: 1.15rem;
-    color: #ff8c00;
-}
-
-code {
-    background: black;
-    color: white;
-    font-family: monospace;
-}
-
-</style>
